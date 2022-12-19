@@ -1,0 +1,29 @@
+{
+	"id": 1812,
+	"nombre": "camiseta de futbol",
+	"precioBase": 20000,
+	"descripcion": "camiseta seleccion argentina",
+	"tiempoEstimadoDeFabricacion": 20,
+	"posiblesPersonalizaciones": [
+		{
+		    "zona": 
+			{
+			    "nombre": "brazo izquierdo"
+			},
+		    "tipo":
+			{
+			    "nombre": "escudo"
+			}
+		},
+		{
+		    "zona": 
+			{
+			    "nombre": "brazo derecho"
+			},
+		    "tipo":
+			{
+			    "nombre": "fecha de campeonato"
+			}
+		}
+	]
+}
