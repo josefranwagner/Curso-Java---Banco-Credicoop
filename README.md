@@ -1,4 +1,4 @@
-# Curso-Java - Banco-Credicoop
+# Curso-Java - Banco Credicoop
 
 **Objetivo:** Diseño de una plataforma de E-Commerce para la venta de productos de indumentaria semi-personalizados utilizando interfaz API Rest.
 
