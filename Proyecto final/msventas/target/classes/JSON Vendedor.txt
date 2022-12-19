@@ -1,0 +1,10 @@
+{
+	"id":50,
+	"nombre": "Sofia",
+	"apellido": "Wagner",
+	"mediosDePago": [
+		{
+			"nombre": "EFECTIVO"
+		}
+	]
+}

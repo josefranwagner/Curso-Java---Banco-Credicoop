@@ -1,0 +1,13 @@
+{
+	"id":50,
+	"nombre": "Angel",
+	"apellido": "Di Maria",
+	"mediosDePago": [
+		{
+			"nombre": "EFECTIVO"
+		},
+		{
+		    "nombre": "TARJETA DE DEBITO"
+		}
+	]
+}
