@@ -1,3 +1,0 @@
-{
-	"idProductoPersonalizado": 1
-}
